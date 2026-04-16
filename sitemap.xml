@@ -19,6 +19,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/dat-rise-and-fall/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/soviet5/</loc>
     <lastmod>2025-05-06</lastmod>
     <changefreq>always</changefreq>
