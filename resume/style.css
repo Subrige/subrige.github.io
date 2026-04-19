@@ -63,7 +63,7 @@ a:hover {
 
 .masthead .tagline {
   margin: 0 0 2.5rem;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   color: #525252;
 }
 
@@ -80,7 +80,7 @@ a:hover {
 }
 
 .masthead nav a {
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   color: #171717;
 }
 
@@ -104,7 +104,7 @@ section > h2 {
 /* Italic descriptive line right under a section h2 */
 .section-intro {
   color: #525252;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   margin: -0.75rem 0 2rem;
 }
 
@@ -128,7 +128,7 @@ section > h2 + .section-label,
 
 section > p {
   margin: 0.35rem 0;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   color: #404040;
   line-height: 1.6;
 }
@@ -188,7 +188,7 @@ section > p {
 
 .entry .subtitle {
   color: #404040;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   margin: 0 0 0.25rem;
   font-style: italic;
 }
@@ -203,14 +203,14 @@ section > p {
 
 .entry p {
   margin: 0;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   color: #525252;
   line-height: 1.55;
 }
 
 .pdf-link {
   margin-top: 2.5rem;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
 }
 
 .pdf-link a {
@@ -271,7 +271,7 @@ section > p {
 .list .note {
   color: #525252;
   margin: 0.3rem 0 0;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   line-height: 1.55;
 }
 
@@ -280,7 +280,7 @@ section > p {
 #contact p {
   margin: 0.35rem 0;
   color: #171717;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
 }
 
 /* ---------- Footer ---------- */
