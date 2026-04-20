@@ -249,6 +249,15 @@ section > p {
   line-height: 1.55;
 }
 
+.entry p.disclosure {
+  margin-top: 0.4rem;
+}
+
+.entry p.disclosure em {
+  color: #737373;
+  font-style: italic;
+}
+
 .pdf-link {
   margin-top: 2.5rem;
   font-size: 0.875rem;
